@@ -1,0 +1,12 @@
+import funkcje.cpp as fun
+import dane_do_funkcji.csv as data
+
+fun.classTest()
+
+name = easygui.enterbox("Wprowadź swoje imie:")
+surname = easygui.enterbox("Wprowadź swoje nazwisko:")
+
+name_surname = name + ";" +  surname
+name_surname = string(name_surname)
+
+name_s
