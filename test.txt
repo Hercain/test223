@@ -1,0 +1,2 @@
+def classExample
+	print(123)
